@@ -1,0 +1,8 @@
+#!/bin/csh -f
+
+
+
+
+scp -r * ftp:/userweb/ungaro/public_html/data/e16/vertex
+
+
